@@ -1,4 +1,6 @@
 import Hero from "./components/Hero";
+import Limitations from "./components/Limitations";
+import ResultBenefits from "./components/ResultBenefits";
 import Results from "./components/Results";
 
 function App() {
@@ -6,6 +8,8 @@ function App() {
     <div >
      <Hero/>
      <Results/>
+     <ResultBenefits/>
+     <Limitations/>
     </div>
   );
 }
