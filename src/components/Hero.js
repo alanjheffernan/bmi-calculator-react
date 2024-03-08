@@ -21,7 +21,7 @@ const Hero = () => {
           </p>
         </div>
         <div className=" lg:flex lg:justify-center lg:items-center lg:basis-1/2">
-          <BmiCalculator />
+          <BmiCalculator/>
         </div>
       </div>
       <div className="absolute top-0 z-0 h-[70vh] w-full rounded-b-[35px] bg-gradient-to-br from-top-left to-bottom-right md:h-[80vh] lg:h-full lg:w-2/3" />
